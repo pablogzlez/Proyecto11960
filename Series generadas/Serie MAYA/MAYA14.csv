@@ -1,0 +1,3 @@
+CatNum,CatPlate,Year,Month,Day,TDofGreatestEclipse,DTs,LunaNum,SarosNum,EclType,QLE,Gamma,EclMag,Lat,Long,SunAlt,SunAzm,PathWidthkm,CentralLineDur,GregorianDate,DeltaT,DeltaT2
+14,1,-1994,Sep,13,14:32:00,46310,-49391,22,A,p-,-0.9265,0.9249,48.2S,116.1E,22,42,733,06m57s,-1994-08-27T14:32:00,0,0.0
+91,5,-1961,Jun,12,15:51:46,45518,-48986,25,P,t-,1.1676,0.6797,63.1N,10.3W,0,38,,,-1961-05-26T15:51:46,11960 days 01:19:46,11960.055393518518
